@@ -1,0 +1,9 @@
+.cache/
+*.safetensors
+*.bin
+*.ckpt
+*.pt
+*.pth
+__pycache__/
+.venv/
+*.pyc

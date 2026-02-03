@@ -1,0 +1,1 @@
+{"model_id": "stable-diffusion-v1-5", "pipeline_tag": "text-to-image", "library_name": "diffusers", "task": "Stable Diffusion v1.5 WebUI Demo"}
